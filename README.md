@@ -33,7 +33,8 @@ sudo apt-get install \
 
 ## Usage
 
-`./WebToPdf`
+1. `./WebToPdf`
+2. http://localhost:4000/?url=https://detik.com
 
 ## Development
 
